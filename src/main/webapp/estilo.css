@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.azul {
+	background-color: blue;
+
+}
+
+.verde {
+	background-color: green;
+	color: white;
+	border-collapse: collapse;
+	
+}
+
+.fondo:hover {
+	background-color: skyblue;
+}
+
+.letra {
+	color: black;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	text-decoration: underline;
+	text-decoration-style: double;
+	text-decoration-color: red
+	;
+
+}
